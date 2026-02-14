@@ -1,0 +1,4 @@
+Flask==3.0.0
+pytubefix
+moviepy==1.0.3
+imageio-ffmpeg
